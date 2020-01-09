@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3137336686",
+    "firebase_url": "https://messenger-fbc3e.firebaseio.com",
+    "project_id": "messenger-fbc3e",
+    "storage_bucket": "messenger-fbc3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3137336686:android:73c8e9d5cc85009ec4fd7f",
+        "android_client_info": {
+          "package_name": "ke.ac.akademiks.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3137336686-40f8hfi5pr0ln09vasmd05jd6cru2o0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqMDVDOIYe9RUztN4shnoFcvdRg7tSV3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3137336686-40f8hfi5pr0ln09vasmd05jd6cru2o0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

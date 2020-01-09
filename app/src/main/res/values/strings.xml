@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="pic">add a pic</string>
+    <string name="sign_up">sign up</string>
+    <string name="login">login</string>
+    <string name="no_acc">already have an account? Login</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="acc" />
+</resources>
